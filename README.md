@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shargounet
+- 👀 I’m interested in coding and cybersecurity
+- 🌱 I’m currently learning Python and cybersec stuff
